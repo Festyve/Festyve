@@ -7,7 +7,7 @@ about me:
 - intern @ [RBC](https://www.rbc.com/), working on databases
 - published a [NeurIPS 2025 workshop paper](https://arxiv.org/abs/2512.18934) on quantization × continual learning
 - interested in mechanistic interpretability, AI safety, and how models actually work under the hood
-- i like hackathons, building games, and i'm a proud kirby enthusiast
+- i like hackathons, building games, and kirby!!
 
 previously i've:
 - built Roblox games with 1M+ total visits
