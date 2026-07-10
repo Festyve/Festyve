@@ -1,4 +1,4 @@
-<img src="profile-assets/kirby.gif" width="110" align="right" alt="Kirby waving hello" />
+<img src="profile-assets/kirby.png" width="115" align="right" alt="Kirby waving hello" />
 
 # hi! i'm michael 👋
 
