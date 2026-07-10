@@ -1,6 +1,6 @@
-<img src="profile-assets/kirby.png" width="115" align="right" alt="Kirby waving hello" />
-
 # hi! i'm michael 👋
+
+<img src="profile-assets/kirby.png" width="150" align="right" hspace="24" alt="Kirby waving hello" />
 
 about me:
 - incoming 1st year @ [UWaterloo](https://uwaterloo.ca) computer science
