@@ -11,7 +11,7 @@ about me:
 previously i've:
 - built Roblox games with 1M+ total visits
 - won an award @ [JamHacks 2026](https://jamhacks.ca/)
-- intern @ [RBC](https://www.rbc.com/), working on databases
+- interned @ [RBC](https://www.rbc.com/), working on databases
 
 I'd love to connect, feel free to reach out!
 
