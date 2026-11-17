@@ -5,6 +5,7 @@
 about me:
 - [UWaterloo](https://uwaterloo.ca) computer science
 - published a [NeurIPS 2025 workshop paper](https://arxiv.org/abs/2512.18934) on quantization × continual learning
+- co-first-authored [A Bag of Concepts?](https://arxiv.org/abs/2611.19176), on role-filler binding in the verbalizable workspace — accepted at the NeurIPS 2026 Interpretability as a Science workshop
 - interested in mechanistic interpretability, AI safety, continual learning and efficiency
 - i like hackathons, building games, and kirby!!
 
