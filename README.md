@@ -3,7 +3,7 @@
 <img src="profile-assets/kirby.png" width="150" align="right" hspace="24" alt="Kirby waving hello" />
 
 about me:
-- 1st year @ [UWaterloo](https://uwaterloo.ca) computer science
+- [UWaterloo](https://uwaterloo.ca) computer science
 - published a [NeurIPS 2025 workshop paper](https://arxiv.org/abs/2512.18934) on quantization × continual learning
 - interested in mechanistic interpretability, AI safety, continual learning and efficiency
 - i like hackathons, building games, and kirby!!
