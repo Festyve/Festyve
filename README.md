@@ -1,18 +1,23 @@
-# hi! i'm michael 👋
+<a href="https://michaelshihongzhang.com/"><img src="./profile-assets/profile-header.png" width="100%" alt="Hi! I’m Michael Zhang. I study computer science at Waterloo. Kirby is bouncing beside my name." /></a>
 
-<img src="profile-assets/kirby.png" width="150" align="right" hspace="24" alt="Kirby waving hello" />
+I’m a [Waterloo CS](https://uwaterloo.ca/computer-science/) student interested in continual learning, mechanistic interpretability, efficient ML, and AI safety. I want to know what a model remembers after it learns something new, and whether we can find that memory inside it.
 
-about me:
-- [UWaterloo](https://uwaterloo.ca) computer science
-- published a [NeurIPS 2025 workshop paper](https://arxiv.org/abs/2512.18934) on quantization × continual learning
-- co-first-authored [A Bag of Concepts?](https://arxiv.org/abs/2611.19176), on role-filler binding in the verbalizable workspace — accepted at the NeurIPS 2026 Interpretability as a Science workshop
-- interested in mechanistic interpretability, AI safety, continual learning and efficiency
-- i like hackathons, building games, and kirby!!
+### papers
 
-previously i've:
-- built Roblox games with 1M+ total visits
-- interned @ [RBC](https://www.rbc.com/), working on databases
+**[A Bag of Concepts?](https://arxiv.org/abs/2611.19176)** · [code](https://github.com/Festyve/jspace-binding-experiments)  
+“The doctor treated the lawyer” and “the lawyer treated the doctor” use the same words. Can we tell who did what to whom by looking inside the model?  
+<sub>Co-first author · NeurIPS 2026 Interpretability as a Science Workshop</sub>
 
-I'd love to connect, feel free to reach out!
+**[When Less is More](https://arxiv.org/abs/2512.18934)** · [code](https://github.com/Festyve/LessIsMore)  
+We trained models on language, math, and code in sequence. In our experiments, 8-bit models struck the best balance between picking up new skills and keeping old ones.  
+<sub>First author · NeurIPS 2025 CCFM Workshop</sub>
 
-[website](https://michaelshihongzhang.com/) - [linkedin](https://www.linkedin.com/in/michaelshihongzhang/) - [x](https://x.com/michaelshzhang) - [mzhang3518@gmail.com](mailto:mzhang3518@gmail.com)
+### things i've built
+
+- **[Rally](https://github.com/nicholaskim17/rally)** turns two laptops into a ping-pong table. Each webcam tracks a player’s hand as their paddle. We took first place at the General Catalyst hackathon.
+- **[J-space visualizer](https://festyve.github.io/jspace-viz/)** lets you pick a token and step through a model’s layers to see when a concept becomes readable.
+- **Roblox games** · I founded a studio and built games in Luau. Together they’ve reached **1M+ visits**.
+
+Previously, I interned at [RBC](https://www.rbc.com/), where I built a Java and Oracle service that processed **500,000+ stale records a week** for the investments team.
+
+[website](https://michaelshihongzhang.com/) · [more projects](https://michaelshihongzhang.com/#projects) · [linkedin](https://www.linkedin.com/in/michaelshihongzhang/) · [x](https://x.com/michaelshzhang) · [email](mailto:mzhang3518@gmail.com)
