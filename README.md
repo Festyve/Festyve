@@ -2,7 +2,7 @@
 
 <img src="profile-assets/kirby.png" width="112" align="right" alt="Kirby bouncing" />
 
-i study [computer science at Waterloo](https://uwaterloo.ca/computer-science/). i'm into continual learning, mechanistic interpretability, efficient ML, and AI safety.
+i study [computer science at Waterloo](https://uwaterloo.ca/computer-science/). i'm into continual learning & software engineering.
 
 **research**
 
