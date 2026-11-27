@@ -15,4 +15,4 @@ previously i've:
 
 I'd love to connect, feel free to reach out!
 
-[linkedin](https://www.linkedin.com/in/michaelshihongzhang/) - [x](https://x.com/michaelshzhang) - [mzhang3518@gmail.com](mailto:mzhang3518@gmail.com)
+[website](https://michaelshihongzhang.com/) - [linkedin](https://www.linkedin.com/in/michaelshihongzhang/) - [x](https://x.com/michaelshzhang) - [mzhang3518@gmail.com](mailto:mzhang3518@gmail.com)
